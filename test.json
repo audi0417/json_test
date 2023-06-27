@@ -1,0 +1,14 @@
+[
+    {
+      "company_name": "FaceBook",
+      "company_intro": "全球最大的社交媒體平台之一。",
+      "icon":"https://img.onl/jwVPlW",
+     "url":"https://www.facebook.com/"
+    },
+    {
+      "company_name": "Google",
+      "company_intro": "全球領先的搜索引擎和技術公司。",
+      "icon":"https://img.onl/MlzQ7O",
+     "url":"https://www.google.com.tw/"
+    }
+  ]
