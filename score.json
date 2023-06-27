@@ -1,0 +1,30 @@
+{
+  "student": "John Doe",
+  "courses": [
+    {
+      "course_name": "計算機科學導論",
+      "credit": 3,
+      "score": 85
+    },
+    {
+      "course_name": "數學基礎",
+      "credit": 4,
+      "score": 92
+    },
+    {
+      "course_name": "英文寫作",
+      "credit": 2,
+      "score": 78
+    },
+    {
+      "course_name": "物理實驗",
+      "credit": 3,
+      "score": 88
+    },
+    {
+      "course_name": "化學基礎",
+      "credit": 3,
+      "score": 90
+    }
+  ]
+}
