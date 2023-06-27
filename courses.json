@@ -1,0 +1,116 @@
+{
+  "courses": [
+    {
+      "course_name": "計算機科學導論",
+      "day": "星期一",
+      "credit": 3,
+      "instructor": "張老師",
+      "location": "教學大樓201"
+    },
+    {
+      "course_name": "數學基礎",
+      "day": "星期二",
+      "credit": 4,
+      "instructor": "李教授",
+      "location": "科學樓105"
+    },
+    {
+      "course_name": "英文寫作",
+      "day": "星期三",
+      "credit": 2,
+      "instructor": "王老師",
+      "location": "外語樓301"
+    },
+    {
+      "course_name": "物理實驗",
+      "day": "星期四",
+      "credit": 3,
+      "instructor": "陳教授",
+      "location": "實驗室A"
+    },
+    {
+      "course_name": "化學基礎",
+      "day": "星期五",
+      "credit": 3,
+      "instructor": "林老師",
+      "location": "化學樓202"
+    },
+    {
+      "course_name": "經濟學",
+      "day": "星期一",
+      "credit": 3,
+      "instructor": "劉教授",
+      "location": "社科大樓102"
+    },
+    {
+      "course_name": "文學與社會",
+      "day": "星期二",
+      "credit": 2,
+      "instructor": "張老師",
+      "location": "人文館301"
+    },
+    {
+      "course_name": "歷史專題",
+      "day": "星期三",
+      "credit": 3,
+      "instructor": "陳教授",
+      "location": "人文館202"
+    },
+    {
+      "course_name": "音樂欣賞",
+      "day": "星期四",
+      "credit": 2,
+      "instructor": "王老師",
+      "location": "音樂廳"
+    },
+    {
+      "course_name": "心理學",
+      "day": "星期五",
+      "credit": 3,
+      "instructor": "林教授",
+      "location": "社科大樓201"
+    },
+    {
+      "course_name": "體育",
+      "day": "星期一",
+      "credit": 1,
+      "instructor": "體育老師",
+      "location": "運動場"
+    },
+    {
+      "course_name": "美術創作",
+      "day": "星期二",
+      "credit": 2,
+      "instructor": "黃老師",
+      "location": "美術教室"
+    },
+    {
+      "course_name": "國際貿易",
+      "day": "星期三",
+      "credit": 3,
+      "instructor": "李教授",
+      "location": "商學大樓301"
+    },
+    {
+      "course_name": "社會學",
+      "day": "星期四",
+      "credit": 3,
+      "instructor": "陳教授",
+      "location": "社科大樓102"
+    },
+    {
+      "course_name": "法律倫理",
+      "day": "星期五",
+      "credit": 2,
+      "instructor": "王老師",
+      "location": "法學院203"
+    },
+    {
+      "course_name": "環境科學",
+      "day": "星期一",
+      "credit": 3,
+      "instructor": "林教授",
+      "location": "科學樓305"
+    }
+  ]
+}
